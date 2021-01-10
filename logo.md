@@ -8,5 +8,10 @@ page_sections:
   image: "/uploads/2021/01/10/subtract.svg"
   slug: ''
   caption: ''
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
