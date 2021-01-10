@@ -8,6 +8,5 @@ page_sections:
   image: "/uploads/2021/01/10/subtract.svg"
   slug: ''
   caption: ''
-published: false
 
 ---
