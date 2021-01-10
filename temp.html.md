@@ -1,6 +1,6 @@
 ---
 block: media-1
-slug: ''
+slug: logo
 image: "/uploads/2021/01/10/subtract.svg"
 caption: ''
 published: false
