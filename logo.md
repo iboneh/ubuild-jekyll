@@ -5,8 +5,19 @@ date: 2021-01-09 21:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
-  navigation: []
+  logo: "/uploads/2021/01/10/subtract.svg"
+  navigation:
+  - link: about.md
+    link_text: about
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     identifier: home
