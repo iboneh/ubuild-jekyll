@@ -11,3 +11,8 @@ defaults:
 plugins:
 - jekyll-feed
 - jekyll-menus
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
