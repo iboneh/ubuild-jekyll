@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: Progress Group
 date: 
 page_sections:
 - template: full-width-media-element
