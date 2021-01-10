@@ -9,15 +9,6 @@ page_sections:
   navigation:
   - link: about.md
     link_text: about
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 menu:
   main:
     identifier: home
