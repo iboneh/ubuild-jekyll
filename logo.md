@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Progress Group
-date: 
+date: 2021-01-09 21:00:00 +0000
 page_sections:
 - template: full-width-media-element
   block: media-1
